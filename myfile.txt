@@ -1,0 +1,16 @@
+    1  ls
+    2  cd gitdemo
+    3  ls
+    4  ls
+    5  ls
+    6  ls
+    7  git status
+    8  [200~ git config --global --add safe.directory C:/Users/2388209/gitdemo
+    9  git config --global --add safe.directory C:/Users/2388209/gitdemo
+   10  git status
+   11  git add --all
+   12  git commit -m "First release of welcome"
+   13  git status
+   14  git log
+   15  history
+   16  history >> myfile.txt 
